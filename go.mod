@@ -1,4 +1,4 @@
-module github.com/redis/rueidis
+module github.com/newacorn/rueidis
 
 go 1.20
 
